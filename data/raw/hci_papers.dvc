@@ -1,0 +1,6 @@
+outs:
+- md5: 025233d6049acb148a087b798dd1af9b.dir
+  size: 7216410
+  nfiles: 3
+  hash: md5
+  path: hci_papers
