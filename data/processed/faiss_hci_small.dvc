@@ -1,0 +1,6 @@
+outs:
+- md5: 35c51a64db2e0388274f734e00ee4c45.dir
+  size: 642438
+  nfiles: 2
+  hash: md5
+  path: faiss_hci_small
